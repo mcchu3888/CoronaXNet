@@ -26,3 +26,6 @@ required to get a more robust estimate of accuracy rates.
 [CoronaXNet.pdf](https://github.com/mcchu3888/CoronaXNet/files/9977150/Michael_Chu___Research_12.pdf)
 
 [Presentation.pdf](https://github.com/mcchu3888/CoronaXNet/files/9977173/Michael.Chu.-.Research.Presentation.12.1.pdf)
+
+# If the jupyter notebook is not rendering, use this link
+https://nbviewer.org/github/mcchu3888/CoronaXNet/blob/main/vgg16-covid19%20%281%29.ipynb
