@@ -2,7 +2,7 @@
 This was an indidivdual research project that I worked on as part of my research internship with the US Army Research Office. 
 Attached below is an abstract, paper, and presentation slides that I used for the project. This project came in first palce at the 2021 New York State Science and Engineering Fair in Computational Biology and Informatics. I was also named a Regeneron International Science and Engineering Fair Finalist for the project. 
 
-If the jupyter notebook is not rendering, please refer to the link at the bottom.
+**If the jupyter notebook is not rendering, please refer to the link at the bottom.**
 
 # Abstract
 With major outbreaks in over 150 countries, the COVID-19 pandemic has had a
